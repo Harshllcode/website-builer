@@ -40,3 +40,4 @@ function insertcard(title, channelname, views, timeago, img, duration) {
 insertcard("html and css | Sigma Web Development Course -Tutorial #2", "CodeWithHarry", v(30000), "4 months", "https://i.ytimg.com/vi/tVzUXW6siu0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDf-xrqgUw55JSfKsoykKVhngkzRA", "12:54");
 
 insertcard("html tags | Sigma Web Development Course -Tutorial #3", "CodeWithHarry", v(5555600), "11 months", "https://i.ytimg.com/vi/BGeDBfCIqas/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ9PuM1Zn58x2U9MLhbV7nPC70NQ", "12:54");
+insertcard("html semantic tags| Sigma Web Development Course -Tutorial #4", "CodeWithHarry", v(5555600), "6 months", "https://i.ytimg.com/vi/BGeDBfCIqas/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ9PuM1Zn58x2U9MLhbV7nPC70NQ", "12:56");
